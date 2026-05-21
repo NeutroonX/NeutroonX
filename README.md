@@ -138,34 +138,11 @@ zed                   [ /usr/bin/zed ]
 ## ⟦ `0x04` ⟧ &nbsp; CONTRIBUTION GRID
  
 <div align="center">
-<!-- ⚙️ SETUP: add this GitHub Action to generate the snake -->
-<!-- https://github.com/Platane/snk -->
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeutroonX/NeutroonX/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NeutroonX/NeutroonX/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/NeutroonX/NeutroonX/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
----
- 
-## ⟦ `0x05` ⟧ &nbsp; ACTIVITY LOG
- 
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeutroonX&bg_color=0d0d0d&color=00FF9F&line=00FF9F&point=FF003C&area=true&area_color=003300&hide_border=true" />
 </div>
 ---
  
-## ⟦ `0x06` ⟧ &nbsp; NOW PLAYING
- 
-<div align="center">
-<!-- ⚙️ SETUP: https://spotify-github-profile.vercel.app — replace YOUR_SPOTIFY_UID -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=neon&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=00ff9f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
- 
-</div>
----
- 
-## ⟦ `0x07` ⟧ &nbsp; INTERCEPTED TRANSMISSION
+## ⟦ `0x05` ⟧ &nbsp; INTERCEPTED TRANSMISSION
  
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4000&pause=2500&color=00FF9F&center=true&vCenter=true&width=700&lines=%22The+sky+above+the+port+was+the+color+of+television%2C+tuned+to+a+dead+channel.%22+%E2%80%94+Gibson;%22The+street+finds+its+own+uses+for+things.%22+%E2%80%94+William+Gibson;%22Reality+is+that+which%2C+when+you+stop+believing+in+it%2C+doesn't+go+away.%22+%E2%80%94+Philip+K.+Dick;%22Root+is+not+a+user.+It's+a+mindset.%22+%E2%80%94+NeutroonX;%22Every+segfault+is+a+lesson.+Every+kernel+panic%2C+a+revelation.%22;%22There+are+no+bugs%2C+only+undocumented+features+in+the+void.%22;%22We+are+not+users.+We+are+operators.%22+%E2%80%94+the+grid;%22The+best+firewall+is+the+one+they+never+knew+existed.%22;%22I+am+a+writeup+that+became+self-aware.%22+%E2%80%94+PKD+remix" alt="quotes" />
